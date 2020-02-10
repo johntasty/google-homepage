@@ -8,14 +8,14 @@ body {
     text-align: center;
 }
 
-.ul {
+.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.li {
+.nav li {
     float: right;
     display: block;
     color: black;
@@ -24,6 +24,6 @@ body {
     text-decoration: none;
 }
 
-.li a:hover {
+.nav li a:hover {
     background-color: #111;
 }
