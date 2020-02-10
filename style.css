@@ -27,3 +27,9 @@ body {
 .nav li a:hover {
     background-color: #111;
 }
+
+.form-group .buttons {
+    padding: 1px;
+    margin: 3px;
+    border-radius: 0;
+}
