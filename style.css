@@ -8,14 +8,14 @@ body {
     text-align: center;
 }
 
-ul {
+.ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-li {
+.li {
     float: right;
     display: block;
     color: black;
@@ -24,6 +24,6 @@ li {
     text-decoration: none;
 }
 
-li a:hover {
+.li a:hover {
     background-color: #111;
 }
